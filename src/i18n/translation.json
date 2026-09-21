@@ -42991,5 +42991,22 @@
     "de": "Sie haben noch keine Geheimnisse gespeichert.",
     "uk": "Ви ще не зберегли жодного секрету.",
     "ca": "Encara no has desat cap secret."
+  },
+  "AUTOMATIONS$DETAIL$DRAFT": {
+    "ar": "مسودة",
+    "ca": "Esborrany",
+    "de": "Entwurf",
+    "en": "Draft",
+    "es": "Borrador",
+    "fr": "Brouillon",
+    "it": "Bozza",
+    "ja": "下書き",
+    "ko-KR": "초안",
+    "no": "Utkast",
+    "pt": "Rascunho",
+    "tr": "Taslak",
+    "uk": "Чернетка",
+    "zh-CN": "草稿",
+    "zh-TW": "草稿"
   }
 }
